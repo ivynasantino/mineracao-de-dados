@@ -5,6 +5,7 @@ O curso tem como objetivo trazer conceitos clássicos de recuperação de inform
 Dentre os assuntos cobertos estão:
 
 - Busca Booleana
+- Crawling
 - Ranking e Modelo do Espaço Vetorial
 - Avaliação de Sistemas de RI 
 - Relevância de Feedback
